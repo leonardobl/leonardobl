@@ -26,8 +26,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardobl&layout=compact)
 
 ![Leonardo Lima's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@leonardobl)
-
-https://github-readme-stats.vercel.app/api/wakatime?username=@leonardobl
-
-<img url="https://github-readme-stats.vercel.app/api/wakatime?username=@leonardobl" ></img>
-
