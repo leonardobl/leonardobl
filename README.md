@@ -22,4 +22,4 @@
 
 
 ![Leonardo Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardobl&show_icons=true&theme=dark)
-![Leonardo Lima's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@leonardobl)
+![Leonardo Lima's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leonardobl)
