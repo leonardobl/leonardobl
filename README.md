@@ -27,3 +27,5 @@
 
 ![Leonardo Lima's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@leonardobl)
 
+https://github-readme-stats.vercel.app/api/wakatime?username=@leonardobl
+
