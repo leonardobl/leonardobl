@@ -23,9 +23,7 @@
 
 ![Leonardo Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardobl&show_icons=true&theme=dark)
 
-![Leonardo Lima's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leonardobl)
+<figure><embed src="https://wakatime.com/share/@leonardobl/96077633-9f03-4ae7-a5f6-3ff86439ee5a.svg"></embed></figure>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardobl&layout=compact)
-
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leonardobl)
 
