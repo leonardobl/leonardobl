@@ -29,5 +29,5 @@
 
 https://github-readme-stats.vercel.app/api/wakatime?username=@leonardobl
 
-<img href="https://github-readme-stats.vercel.app/api/wakatime?username=@leonardobl" ></img>
+<img url="https://github-readme-stats.vercel.app/api/wakatime?username=@leonardobl" ></img>
 
