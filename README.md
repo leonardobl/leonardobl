@@ -7,12 +7,10 @@
       <a href="https://www.linkedin.com/in/leonardo-bernardo-lima-84356050/" target="black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram"></a>
       <a href="https://api.whatsapp.com/send?phone=5586995233237" target="black"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
     </div>
-    <hr>
     <div style="display: flex; justify-content: center; width: 70%; margin: 0 auto;">
       <img style="width: 100%; display: block;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Gif">
     </div>
     <br>
-    
     <h2>Skills</h2>
     <div>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
@@ -26,15 +24,14 @@
     </div>
     <br>
     <div>
-      <div style="display: flex; justify-content: center;">
-        <img width="70%" style="display: block;" src="https://github-readme-stats.vercel.app/api?username=leonardobl&show_icons=true&theme=dark" alt="statistica github">
+     <div>
+        <img width="70%" style="margin: 0 auto; display: block;" src="https://github-readme-stats.vercel.app/api?username=leonardobl&show_icons=true&theme=dark" alt="statistica github">
       </div>
       <br>
-      <div style="display: flex; justify-content: space-around"> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardobl&layout=compact" alt="statistica">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@leonardobl" alt="statistica">
+      <div style="display: flex; justify-content: space-around;"> 
+        <img width="45%" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardobl&layout=compact" alt="statistica">
+        <img width="45%" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/wakatime?username=@leonardobl" alt="statistica">
       </div>
-      
     </div>
   </div>
   <hr>
