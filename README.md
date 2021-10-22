@@ -3,9 +3,9 @@
     <hr>
     <h2>Redes sociais</h2>
     <div>
-      <a href="https://www.instagram.com/leonard.lima_" target="black"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-      <a href="https://www.linkedin.com/in/leonardo-bernardo-lima-84356050/" target="black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram"></a>
-      <a href="https://api.whatsapp.com/send?phone=5586995233237" target="black"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
+      <a href="https://www.instagram.com/leonard.lima_" target="_black"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+      <a href="https://www.linkedin.com/in/leonardo-bernardo-lima-84356050/" target="_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram"></a>
+      <a href="https://api.whatsapp.com/send?phone=5586995233237" target="_black"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
     </div>
     <br>
     <div align="center">
