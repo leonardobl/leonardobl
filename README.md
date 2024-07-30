@@ -1,4 +1,4 @@
-  <div style="width: 80%; margin: 0 auto;">
+  <div style="width: 80%"; margin: 0 auto;">
     <h1>Seja bem vindo(a) ao meu perfil no Github 🤖 </h1>
     <hr>
     <h2>Redes sociais</h2>
